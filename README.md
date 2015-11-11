@@ -10,6 +10,6 @@ Drakify is built using the Node.js, Google Voice, and Rap Genius APIs
 Node.js and Chrome are required to run this website
 
 ## Running and Viewing Website
-Set directory in Console to Drakify and type `npm start`. The Express server defaults to port 3000. Navigate to `http://localhost:3000/` in Chrome and allow access to the microphone. Please be aware that to much interference noise does impact the accuracy of the program 
+Set directory in Console to Drakify and type `npm start`. The local server defaults to port 3000. Navigate to `http://localhost:3000/` in Chrome and allow access to the microphone. Please be aware that to much interference noise does impact the accuracy of the program 
 
 Happy Rapping! 
