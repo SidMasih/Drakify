@@ -1,4 +1,4 @@
-# drakify
+# Drakify
 Rap all your favorite Drake songs to the Drakify website!
 
 CalHacks 2015 Hack, won 4 out of 9 Drake Stickers (unofficial prizes from the organizers)
